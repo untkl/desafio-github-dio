@@ -1,0 +1,6 @@
+Irei fazer um brainstorm ou anotações/dicas relevantes às informações do projeto nesse arquivo. 
+
+
+
+20 dicas poderosas de Git e Github para organizar sua vida
+(https://blog.dankicode.com/dicas-de-git-e-github/)
